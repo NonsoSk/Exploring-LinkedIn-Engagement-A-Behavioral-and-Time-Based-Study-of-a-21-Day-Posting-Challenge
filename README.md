@@ -114,7 +114,8 @@ As seen, the challenge started on the **3rd of March 2025** and ended on the **2
 
 Moving deeper, we could find the actual number who participated in the challenge each day. 
 
-<img width="134" alt="Actual vs Expected" src="https://github.com/user-attachments/assets/3346278d-a9bb-47f4-b78f-bb3f1b515024" />
+
+<img width="115" alt="Screenshot 2025-04-25 141837" src="https://github.com/user-attachments/assets/4864e723-98a6-4c72-b7b0-14f315b2a664" />
 
 
 The image above indicates that only **25** persons participated in the challenge on the **23rd of March** as against the **226** persons who should have participated. This means that **88.98%** did not participate. When filtered by the calendar below, we can find out how many participated each day in the challenge.
