@@ -243,7 +243,7 @@ Finally, we can see my engagement trend throughout the challenge.
 
 Even though I was able to post all through the challenge, the analysis shows that my engagement on posts reduced drastically as the days advanced. This says more about my motivation and all round consistency. That means, while I was consistent in posting, I did not maintain the energy I applied at first in engaging on posts. It is safe to say that the most important thing is not just posting, but engaging in posts also matters
 
-### Having detailed our analysis, let us now identify the problems and provide recommendations
+### Below are recommendations with respects to the insights we uncovered.
 
 
 ### <ins>RECOMMENDATIONS</ins> 
