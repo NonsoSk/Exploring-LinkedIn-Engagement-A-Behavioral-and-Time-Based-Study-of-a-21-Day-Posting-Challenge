@@ -200,7 +200,9 @@ However on a general note, posts made under the Data and insights category has t
 
 
 
-### <ins>My Reaction to posts</ins>
+### <ins>Analyzing My Reactions to LinkedIn Posts During the 21-Day Challenge</ins>
+
+This page is originally "**My Reaction to Posts**" on my dashboard, but for the sake of clarity, let`s embrace the header above.
 
 <img width="607" alt="Page 3" src="https://github.com/user-attachments/assets/d5a0a0fb-a84e-4b70-bbac-79f4714a5523" />
 
@@ -255,8 +257,6 @@ To support this, we also saw a sharp decline in participation after the first we
 
 **<ins>Recommendations:</ins>**
 
-- Future challenges should include onboarding sessions to clarify expectations and benefits.
-- Create a content calendar and prompt template for participants to reduce content ideation fatigue.
 - Incorporate reminder systems and mid-challenge motivational nudges (e.g., automated WhatsApp reminders or milestone rewards).
 
 **A Strategic Solution to this could be:**
